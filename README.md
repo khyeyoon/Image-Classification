@@ -19,6 +19,8 @@
 
 ## Dataset format
 
+* The dataset is not public.
+
     dataroot
     ├── train
         ├── 1 (quokkas)
