@@ -19,7 +19,7 @@
 
 ## Dataset format
 
-* The dataset is not public.
+The dataset is not public.
 
     dataroot
     ├── train
@@ -40,6 +40,7 @@
             ├── 0001.jpg
             ├── 0002.jpg
             ├── ...
+            
             
 ## Result of training with the dataset
 
