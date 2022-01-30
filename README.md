@@ -1,4 +1,4 @@
-# Image Classification (Pytorch)
+# Image Classification (PyTorch)
 
 <img src="https://github.com/khyeyoon/Image-classification/blob/master/img/topic.JPG">
 
