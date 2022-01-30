@@ -103,7 +103,8 @@ def train(epoch):
         
     print('Loss: %.3f | Acc: %.3f%% (%d/%d)'
         % (train_loss/(batch_idx+1), 100.*correct/total, correct, total))
-    # 모델 저장
+    
+    # model save
     if epoch%5==0:
       torch.save({
           'epoch': epoch,
