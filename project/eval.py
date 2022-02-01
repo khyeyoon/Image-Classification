@@ -9,7 +9,6 @@ import torch.optim as optim
 import os
 from torch.utils.data import Dataset
 from torch.utils.data import DataLoader
-from utils import progress_bar
 import glob
 from PIL import Image
 
